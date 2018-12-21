@@ -34,3 +34,8 @@ pip3 install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/im
 Donwnload training model here:
 
 https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5
+
+*Start the project:
+python objDetect.py
+
+*script will create output image as: imagenew.jpg/png*
