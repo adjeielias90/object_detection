@@ -1,7 +1,7 @@
 Just a simple python script to detect objects in images with ImageAI
 
 To find out more about imageAI and all the amazing things you can do with it, 
-head to thenImageAI github repo.
+head to the ImageAI github repo.
 
 https://github.com/OlafenwaMoses/ImageAI
 
